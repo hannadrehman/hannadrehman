@@ -20,24 +20,3 @@ Here are some ideas to get you started:
 I am an accomplished Software Engineer with extensive experience in building Backend and Frontend with Python, Javascript, Typescript, NodeJs, ReactJs, Angular, VueJs,
 
 
-<div>
-<a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hannadrehman&show_icons=true&theme=dracula" />
-</a>
-<a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannadrehman&show_icons=true&theme=dracula" />
-</a>
-</div>
-<br />
-<div>
-  <a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to?show_icons=true&theme=dracula" />
-  </a>
-  <a>
-         <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannadrehman&theme=dracula">
-        
-  </a> 
-  </a>
-
-</div>
-
