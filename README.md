@@ -23,10 +23,10 @@ Hello there! 👋 Welcome to my GitHub profile! I'm Hannad rehman, a passionate 
 
 I work at HackeRrank as a Lead Software Engineer. I'm a lifelong learner and believe in the power of collaboration and open-source projects. As an avid coder, I enjoy exploring new technologies, tinkering with code, and building practical solutions to real-world challenges. My primary focus areas include:
 
--Web Development: Crafting interactive and user-friendly web applications using cutting-edge technologies such as React, Angular, and Node.js.
--Machine Learning: Exploring the fascinating world of AI and ML, developing models for various tasks, and finding innovative ways to leverage data.
--Open Source Contributions: Contributing back to the community and being a part of open-source projects that make a difference.
--Software Engineering: Applying best practices to build robust, scalable, and maintainable software.
+- Web Development: Crafting interactive and user-friendly web applications using cutting-edge technologies such as React, Angular, and Node.js.
+- Machine Learning: Exploring the fascinating world of AI and ML, developing models for various tasks, and finding innovative ways to leverage data.
+- Open Source Contributions: Contributing back to the community and being a part of open-source projects that make a difference.
+- Software Engineering: Applying best practices to build robust, scalable, and maintainable software.
 Featured Repositories
 
 
