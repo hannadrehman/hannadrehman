@@ -28,8 +28,9 @@ I am an accomplished Software Engineer with extensive experience in building Bac
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannadrehman&show_icons=true&theme=dracula" />
 </a>
 </div>
+<br />
 <div>
-  <div>
+  <a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to" />
-</div>
+</a>
 </div>
