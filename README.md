@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 # Hi, Welcome to my profile. I am Hannad!
 
-I am an accomplished Software Engineer with extensive experience in building Backend and Frontend with Python, Javascript, Typescript, NodeJs, ReactJs, Angular, VueJs,
-
-
+I am a software engineer based in Kashmir. I work at HackerRank as a Lead Engineer. I'm passionate about Technology, Javascript, Web and Open source. in my free time I listen to music and play with my dog. I've been working as a software engineer for about 5 years now. most of the time you will find me writing about latest trends in the world of Web.
