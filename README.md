@@ -34,7 +34,7 @@ I am an accomplished Software Engineer with extensive experience in building Bac
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to?show_icons=true&theme=dracula" />
 </a>
   <a>
-         <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact">
+         <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannadrehman&layout=compact">
         
   </a> 
   </a>
