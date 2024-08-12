@@ -3,15 +3,22 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRkYmJ3cDlvNDcxd2xkeWVvZzFzdnUxeTNqc2d3MzRnaG1uM3hyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vs5y14mkgmZOVukgmE/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/hannad-rehman">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/hannad_rehman">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://discordapp.com/users/705906985798729760">
+    <img src="https://img.shields.io/badge/Discord-5562ea?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /> 
+  </a>
+  <a href="https://stackoverflow.com/users/4214329/hannad-rehman">
+    <img src="https://img.shields.io/badge/Stackoverflow-f4842b?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" />
+  </a>
+   <a href="http://hannadrehman.com">
+    <img src="https://img.shields.io/badge/Blog-1a1b1e?style=for-the-badge&logo=vercel&logoColor=white" alt="blog" />
+  </a>
+
 </div>
 
 
