@@ -25,7 +25,7 @@ I'm always open to collaboration, discussions, and constructive feedback. If you
 - [Blog](https://hannadrehman.com/)
 
 # GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=hannadrehman)](https://hannadrehman.com)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hannadrehman&theme=onedark)](https://hannadrehman.com)
 
 # Contributions and Feedback
 
