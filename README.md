@@ -19,7 +19,9 @@
    <a href="http://hannadrehman.com">
     <img src="https://img.shields.io/badge/Blog-1a1b1e?style=for-the-badge&logo=vercel&logoColor=white" alt="blog" />
   </a>
-
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hannadrehman" alt="views" />
 </div>
 
 
