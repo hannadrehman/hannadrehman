@@ -24,6 +24,8 @@ I'm always open to collaboration, discussions, and constructive feedback. If you
 - [StackOverflow](https://stackoverflow.com/users/4214329/hannad-rehman)
 - [Blog](https://hannadrehman.com/)
 
+# GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=hannadrehman)](https://hannadrehman.com)
 
 # Contributions and Feedback
 
