@@ -2,11 +2,23 @@
 
 # Welcome to Hannad Rehman's GitHub Profile!
 
+
+Hello there! 👋 Welcome to my GitHub profile! I'm Hannad rehman, a passionate software engineer and technology enthusiast. Here, you'll find a diverse collection of projects and repositories, reflecting my interests, skills, and journey in the world of coding. Whether you're a fellow developer, recruiter, or just someone curious about my work, I hope you'll find something intriguing and valuable.
+
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRkYmJ3cDlvNDcxd2xkeWVvZzFzdnUxeTNqc2d3MzRnaG1uM3hyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vs5y14mkgmZOVukgmE/giphy.gif" width="200"/>
 </div>
-
-Hello there! 👋 Welcome to my GitHub profile! I'm Hannad rehman, a passionate software engineer and technology enthusiast. Here, you'll find a diverse collection of projects and repositories, reflecting my interests, skills, and journey in the world of coding. Whether you're a fellow developer, recruiter, or just someone curious about my work, I hope you'll find something intriguing and valuable.
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 # About Me
 
