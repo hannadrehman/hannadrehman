@@ -34,7 +34,7 @@ Hello there! 👋 Welcome to my GitHub profile! I'm Hannad rehman, a passionate 
 
 # About Me
 
-I work at [HackeRrank](https://www.hackerrank.com/) as a Lead Software Engineer. I'm a lifelong learner and believe in the power of collaboration and open-source projects. As an avid coder, I enjoy exploring new technologies, tinkering with code, and building practical solutions to real-world challenges. My primary focus areas include:
+I'm a lifelong learner and believe in the power of collaboration and open-source projects. As an avid coder, I enjoy exploring new technologies, tinkering with code, and building practical solutions to real-world challenges. My primary focus areas include:
 
 - Web Development: Crafting interactive and user-friendly web applications using cutting-edge technologies such as React, Angular, and Node.js.
 - Machine Learning: Exploring the fascinating world of AI and ML, developing models for various tasks, and finding innovative ways to leverage data.
